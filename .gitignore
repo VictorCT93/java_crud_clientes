@@ -1,0 +1,19 @@
+# Arquivos gerados pelo compilador Java
+*.class
+
+# Arquivos de build
+bin/
+target/
+
+# Arquivos de configuração IDE
+.idea/
+.eclipse/
+*.iml
+
+# Arquivos temporários
+*.log
+*.swp
+*~
+
+
+
